@@ -1,2 +1,1 @@
-# C21
-SONAM WANGCHUK
+# solar_power
